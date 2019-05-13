@@ -40,3 +40,4 @@ Es increible como el cerebro humano es tan fácil de engañar, enfrentandonos a 
 
 * Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 12/5/19 a las 24h.
 * (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesión de taller.
+* Para ver el desarrollo del taller 2, por favor referenciarse al link [Taller 2](https://github.com/CristianLozano/VC/tree/master/Taller%202)
